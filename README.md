@@ -2,5 +2,5 @@
 
 To install:
 ```r
-devtools::install_github(repo='domoinc/rdomo',ref='main')
+devtools::install_github(repo='jeremydmorris/pmodeltools',ref='main')
 ```
