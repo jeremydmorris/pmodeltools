@@ -1,11 +1,13 @@
 Package: pmodeltools
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Precision Analytics Modeling Tools
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Jeremy Morris
+Maintainer: Jeremy Morris <jeremy@precision-analytics.io>
+Description: This package provides functions I've found helpful when modeling. Where possible, I'll use them to make my code shorter.
+    This is another paragraph, just in case I forget how to do that.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+Imports:
+    workflows,parsnip,hardhat,purrr,tidybayes
